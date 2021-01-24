@@ -37,10 +37,15 @@ The algorithm training process is as follows:
 The algorithm test process is as follows:
 
 <p align="left">
-  <img width="89" height="305" src=./picture/test.png>
+  <img width="589" height="305" src=./picture/test.png>
 </p>
 
 
+## Algorithm implementation
+
+The algorithm program is written in Matlab language and runs the (2D)^2FPCA.m file. 
+
+Note: You need to modify the dataset reading position in the code.
 
 
 ## References
