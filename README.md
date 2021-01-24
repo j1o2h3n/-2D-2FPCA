@@ -43,7 +43,7 @@ The algorithm test process is as follows:
 
 ## Algorithm implementation
 
-The algorithm program is written in Matlab language and runs the (2D)^2FPCA.m file. 
+This is the code I completed in May 2019. The algorithm program is written in Matlab language and runs the (2D)^2FPCA.m file. 
 
 Note: You need to modify the dataset reading position in the code.
 
