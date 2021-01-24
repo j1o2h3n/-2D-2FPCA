@@ -7,7 +7,7 @@ Two-way Two-Dimensional Fisher Principal Component Analysis ((2D)^2FPCA) is an i
 By combining PCA and FLD algorithms, the purpose of dimensionality reduction is achieved.
 
 <p align="center">
-  <img width="670" height="260" src=./picture/pca-fld.png>
+  <img width="447" height="173" src=./picture/pca-fld.png>
 </p>
 
 ## Question
@@ -31,13 +31,13 @@ The following schematic diagram.
 The algorithm training process is as follows:
 
 <p align="left">
-  <img width="605" height="448" src=./picture/train.png>
+  <img width="403" height="298" src=./picture/train.png>
 </p>
 
 The algorithm test process is as follows:
 
 <p align="left">
-  <img width="589" height="305" src=./picture/test.png>
+  <img width="392" height="202" src=./picture/test.png>
 </p>
 
 
