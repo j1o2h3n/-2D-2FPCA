@@ -7,7 +7,7 @@ Matlab realization of finger vein recognition algorithm based on (2D)^2FPCA
 Through the fusion of PCA and FLD algorithms, the purpose of dimensionality reduction is achieved.
 
 <p align="center">
-  <img width="335" height="130" src=./picture/pca-fld.png>
+  <img width="670" height="260" src=./picture/pca-fld.png>
 </p>
 
 
