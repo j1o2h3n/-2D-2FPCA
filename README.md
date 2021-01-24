@@ -4,7 +4,7 @@ Matlab realization of finger vein recognition algorithm based on (2D)^2FPCA
 ## About (2D)^2FPCA
 
 (2D)^2FPCA is an improved version of dimensionality reduction algorithm in machine learning.
-Through the fusion of PCA and FLD algorithms, the purpose of dimensionality reduction is achieved.
+By combining PCA and FLD algorithms, the purpose of dimensionality reduction is achieved.
 
 <p align="center">
   <img width="670" height="260" src=./picture/pca-fld.png>
