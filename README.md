@@ -49,7 +49,7 @@ Note: You need to modify the dataset reading position in the code.
 
 ## Experiment
 
-I have tried the recognition efficiency of the algorithm under different feature dimensions in experiments to find the best feature mapping dimension. The specific experimental results are as follows:
+I have tried the recognition efficiency of the algorithm under different feature dimensions in experiments, hoping to find the best feature mapping dimension. The specific experimental results are as follows:
 
 <p align="center">
   <img width="824" height="498" src=./picture/result.png>
