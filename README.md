@@ -25,8 +25,22 @@ First use 2DPCA in the column direction for the picture, and then use 2DFLD in t
 The following schematic diagram.
 
 <p align="center">
-  <img width="837" height="369" src=./picture/(2D)2FPCA.png>
+  <img width="558" height="245" src=./picture/(2D)2FPCA.png>
 </p>
+
+The algorithm training process is as follows:
+
+<p align="left">
+  <img width="605" height="448" src=./picture/train.png>
+</p>
+
+The algorithm test process is as follows:
+
+<p align="left">
+  <img width="89" height="305" src=./picture/test.png>
+</p>
+
+
 
 
 ## References
