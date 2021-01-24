@@ -15,7 +15,7 @@ By combining PCA and FLD algorithms, the purpose of dimensionality reduction is 
 The (2D)^2FPCA algorithm is used to complete the dimensionality reduction of finger vein images, and to classify and recognize the images.
 
 <p align="center">
-  <img width="240" height="480" src=./picture/finger vein.bmp>
+  <img width="240" height="480" src=./picture/finger_vein.bmp>
 </p>
 
 
